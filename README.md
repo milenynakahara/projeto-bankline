@@ -1,7 +1,7 @@
 <h1 align="center">  Projeto Bankline - API em Java </h1> 
 <p align="center"> Projeto final do bootcamp da Gama Academy - Turma 7 </p>
 <h4 align="center"> 
-	  :memo: Documentação  <a href="https://accountbank-api.herokuapp.com/swagger-ui.html"> HEROKU </a> :memo:
+	  //:memo: Documentação  <a href="https://accountbank-api.herokuapp.com/swagger-ui.html"> HEROKU </a> :memo:
 </h4>
 
 ## Time Undefined
